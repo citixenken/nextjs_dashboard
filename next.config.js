@@ -4,7 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "https://nextjs-dashboard-orcin-two.vercel.app/",
+        hostname: "nextjs-dashboard-orcin-two.vercel.app",
       },
     ],
   },
