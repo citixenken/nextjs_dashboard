@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: "Customers",
 };
 const Page = () => {
-  return <div>Customers Page</div>;
+  return <div>Populate Customer Data here...</div>;
 };
 
 export default Page;
